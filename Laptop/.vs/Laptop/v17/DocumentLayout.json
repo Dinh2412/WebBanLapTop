@@ -1,0 +1,753 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Student_Laptop-main\\Laptop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\controllers\\_clientlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\controllers\\_clientlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\loginadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\loginadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|d:\\student_laptop-main\\laptop\\laptop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\_clientbill\\pay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\_clientbill\\pay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|d:\\student_laptop-main\\laptop\\laptop\\views\\_clientbill\\rate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\_clientbill\\rate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|d:\\student_laptop-main\\laptop\\laptop\\views\\customert\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\customert\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|d:\\student_laptop-main\\laptop\\laptop\\views\\customert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\customert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\home\\statistical_month.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\home\\statistical_month.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\home\\statistical.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\home\\statistical.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\home\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\home\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\shared\\_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\shared\\_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\shared\\_client.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\shared\\_client.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\new\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\new\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\new\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\new\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\loginadmin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\loginadmin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\_clientbill\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\_clientbill\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\_clientbill\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\_clientbill\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\_clientbill\\bill_detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\_clientbill\\bill_detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\_clientbill\\bill_cus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\_clientbill\\bill_cus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\_clientbill\\bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\_clientbill\\bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\controllers\\_clientfavoritelistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\controllers\\_clientfavoritelistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\controllers\\_clientcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\controllers\\_clientcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\controllers\\_clientcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\controllers\\_clientcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\controllers\\_clientbillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\controllers\\_clientbillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\_clientlogin\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\_clientlogin\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\newimage\\image.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\newimage\\image.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\bill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\bill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\models\\soluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\models\\soluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\models\\mau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\models\\mau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\models\\client_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\models\\client_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\models\\bill_detaill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\models\\bill_detaill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\views\\_clientproductdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\views\\_clientproductdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\controllers\\_clientproductdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\controllers\\_clientproductdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|D:\\Student_Laptop-main\\Laptop\\laptop\\controllers\\_clientnewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0220A2BA-C210-4F2C-87A2-477C921770E3}|Laptop\\Laptop.csproj|solutionrelative:laptop\\controllers\\_clientnewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\customert\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\customert\\Edit.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\customert\\Edit.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\customert\\Edit.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:08:48.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAFsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T15:20:53.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "layout.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Home\\layout.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\Home\\layout.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Home\\layout.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\Home\\layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T09:56:58.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pay.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\pay.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\_clientBill\\pay.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\pay.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\_clientBill\\pay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:07:23.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\loginAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\loginAdmin\\Index.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\loginAdmin\\Index.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\loginAdmin\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T06:31:13.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_clientLoginController.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientLoginController.cs",
+              "RelativeDocumentMoniker": "Laptop\\Controllers\\_clientLoginController.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientLoginController.cs",
+              "RelativeToolTip": "Laptop\\Controllers\\_clientLoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:15:59.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\customert\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\customert\\Index.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\customert\\Index.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\customert\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:08:48.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rate.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\rate.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\_clientBill\\rate.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\rate.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\_clientBill\\rate.cshtml",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:10:27.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Admin.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Shared\\_Admin.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\Shared\\_Admin.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Shared\\_Admin.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\Shared\\_Admin.cshtml",
+              "ViewState": "AgIAANkBAAAAAAAAAAAAAHoBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T06:29:18.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Statistical.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Home\\Statistical.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\Home\\Statistical.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Home\\Statistical.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\Home\\Statistical.cshtml",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T06:30:50.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Statistical_month.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Home\\Statistical_month.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\Home\\Statistical_month.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Home\\Statistical_month.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\Home\\Statistical_month.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T06:30:48.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:30:13.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAACkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T15:49:45.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Client.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Shared\\_Client.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\Shared\\_Client.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Shared\\_Client.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\Shared\\_Client.cshtml",
+              "ViewState": "AgIAAMsBAAAAAAAAAAAAAMQBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T15:47:54.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Laptop\\Global.asax.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Global.asax.cs",
+              "RelativeToolTip": "Laptop\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:21:50.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Web.config",
+              "RelativeDocumentMoniker": "Laptop\\Web.config",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Web.config",
+              "RelativeToolTip": "Laptop\\Web.config",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAsAAAAQAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-16T15:16:04.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\packages.config",
+              "RelativeDocumentMoniker": "Laptop\\packages.config",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\packages.config",
+              "RelativeToolTip": "Laptop\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-16T15:21:52.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\favicon.ico",
+              "RelativeDocumentMoniker": "Laptop\\favicon.ico",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "Laptop\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-11-21T01:44:58.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:44:52.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Laptop\\Views\\Web.config",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\Web.config",
+              "RelativeToolTip": "Laptop\\Views\\Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-16T15:21:53.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\loginAdmin\\login.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\loginAdmin\\login.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\loginAdmin\\login.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\loginAdmin\\login.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:08:56.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\New\\Create.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\New\\Create.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\New\\Create.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\New\\Create.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:09:01.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\New\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\New\\Index.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\New\\Index.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\New\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:25:40.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Confirm.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\Confirm.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\_clientBill\\Confirm.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\Confirm.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\_clientBill\\Confirm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:07:21.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Buy.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\Buy.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\_clientBill\\Buy.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\Buy.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\_clientBill\\Buy.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:07:17.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Bill_Detail.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\Bill_Detail.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\_clientBill\\Bill_Detail.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\Bill_Detail.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\_clientBill\\Bill_Detail.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:07:13.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Bill_cus.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\Bill_cus.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\_clientBill\\Bill_cus.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\Bill_cus.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\_clientBill\\Bill_cus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:07:12.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Bill.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\Bill.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\_clientBill\\Bill.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientBill\\Bill.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\_clientBill\\Bill.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:07:09.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_clientCartController.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientCartController.cs",
+              "RelativeDocumentMoniker": "Laptop\\Controllers\\_clientCartController.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientCartController.cs",
+              "RelativeToolTip": "Laptop\\Controllers\\_clientCartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:15:59.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_clientCustomerController.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientCustomerController.cs",
+              "RelativeDocumentMoniker": "Laptop\\Controllers\\_clientCustomerController.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientCustomerController.cs",
+              "RelativeToolTip": "Laptop\\Controllers\\_clientCustomerController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:15:59.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_clientFavoriteListController.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientFavoriteListController.cs",
+              "RelativeDocumentMoniker": "Laptop\\Controllers\\_clientFavoriteListController.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientFavoriteListController.cs",
+              "RelativeToolTip": "Laptop\\Controllers\\_clientFavoriteListController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:15:59.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_clientBillController.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientBillController.cs",
+              "RelativeDocumentMoniker": "Laptop\\Controllers\\_clientBillController.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientBillController.cs",
+              "RelativeToolTip": "Laptop\\Controllers\\_clientBillController.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAgwD0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:15:59.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Laptop\\Models\\Model1.edmx",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Laptop\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-16T15:21:37.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "notification.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientLogin\\notification.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\_clientLogin\\notification.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientLogin\\notification.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\_clientLogin\\notification.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T09:58:33.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Models\\GioHang.cs",
+              "RelativeDocumentMoniker": "Laptop\\Models\\GioHang.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Models\\GioHang.cs",
+              "RelativeToolTip": "Laptop\\Models\\GioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:21:42.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "client_bill.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Models\\client_bill.cs",
+              "RelativeDocumentMoniker": "Laptop\\Models\\client_bill.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Models\\client_bill.cs",
+              "RelativeToolTip": "Laptop\\Models\\client_bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:21:43.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\bill\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\bill\\Index.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\bill\\Index.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\bill\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T15:46:38.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Image.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\newImage\\Image.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\newImage\\Image.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\newImage\\Image.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\newImage\\Image.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T15:47:39.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Bill_Detaill.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Models\\Bill_Detaill.cs",
+              "RelativeDocumentMoniker": "Laptop\\Models\\Bill_Detaill.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Models\\Bill_Detaill.cs",
+              "RelativeToolTip": "Laptop\\Models\\Bill_Detaill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:21:44.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "mau.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Models\\mau.cs",
+              "RelativeDocumentMoniker": "Laptop\\Models\\mau.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Models\\mau.cs",
+              "RelativeToolTip": "Laptop\\Models\\mau.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:21:42.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SoLuong.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Models\\SoLuong.cs",
+              "RelativeDocumentMoniker": "Laptop\\Models\\SoLuong.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Models\\SoLuong.cs",
+              "RelativeToolTip": "Laptop\\Models\\SoLuong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:21:40.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Laptop\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Laptop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:21:00.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientProductDetail\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laptop\\Views\\_clientProductDetail\\Index.cshtml",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Views\\_clientProductDetail\\Index.cshtml",
+              "RelativeToolTip": "Laptop\\Views\\_clientProductDetail\\Index.cshtml",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAANQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T15:15:59.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_clientProductDetailController.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientProductDetailController.cs",
+              "RelativeDocumentMoniker": "Laptop\\Controllers\\_clientProductDetailController.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientProductDetailController.cs",
+              "RelativeToolTip": "Laptop\\Controllers\\_clientProductDetailController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:15:59.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_clientNewController.cs",
+              "DocumentMoniker": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientNewController.cs",
+              "RelativeDocumentMoniker": "Laptop\\Controllers\\_clientNewController.cs",
+              "ToolTip": "D:\\Student_Laptop-main\\Laptop\\Laptop\\Controllers\\_clientNewController.cs",
+              "RelativeToolTip": "Laptop\\Controllers\\_clientNewController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:15:59.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
